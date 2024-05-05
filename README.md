@@ -27,3 +27,10 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghad-mahmoud&" alt="raghad-mahmoud" /></p>
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/raghad-mahmou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghad-mahmou" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raghadzmahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghadzmahmoud" height="30" width="40" /></a>
+</p>
