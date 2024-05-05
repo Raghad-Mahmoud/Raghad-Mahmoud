@@ -11,7 +11,7 @@
   <img align="right" alt="Coding" width="320" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 
-####  -  🔭 I’m studying computer science - AI Track at NNU
+####  -  🔭 I’m studying Computer Science Apprenticeship - AI Track at NNU
   
 #### -  🌱 I’m currently learning **tensorflow,AWS and docker**
   
