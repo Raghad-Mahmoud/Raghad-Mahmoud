@@ -13,7 +13,7 @@
 
 ####  -  🔭 I’m studying Computer Science Apprenticeship - AI Track at NNU
   
-#### -  🌱 I’m currently learning **tensorflow,AWS and docker**
+#### -  🌱 I’m currently learning **Data Mining, neural networks and deep learning and Cloud**
   
 #### -  🤝 I’m looking for help with **Python and Machine Learning**
 
